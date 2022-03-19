@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "title": "通知",
+    "message": "通知测试",
+    "show": true,
+    "buttons": [
+        {
+            "title": "按钮1",
+            "url": "https://github.com/Foreverddb/FuckLegym"
+        },
+        {
+            "title": "按钮2",
+            "url": "https://github.com/Foreverddb/FuckLegym"
+        },
+        {
+            "title": "按钮3",
+            "url": "https://github.com/Foreverddb/FuckLegym"
+        }
+    ]
+}
