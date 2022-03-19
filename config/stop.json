@@ -1,5 +1,5 @@
 {
-    "deprecatedVersion": 10,
+    "deprecatedVersion": 11,
     "saveVersion": [7, 8],
     "info": {
         "title": "提示",
@@ -7,6 +7,6 @@
     },
     "button": {
         "text": "去下载新版",
-        "url": "https://gitee.com/liang_dh/flcloulds/new/master/config"
+        "url": "https://github.com/Foreverddb/FuckLegym"
     }
 }
