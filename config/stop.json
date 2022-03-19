@@ -1,6 +1,6 @@
 {
     "deprecatedVersion": 10,
-    "saveVersion": [7, 8],
+    "saveVersion": [7, 8, 10],
     "info": {
         "title": "提示",
         "message": "此版本已停用"
