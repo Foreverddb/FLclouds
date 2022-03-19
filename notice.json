@@ -1,7 +1,7 @@
 {
     "notices": [
         {
-            "id": 1,
+            "id": "1",
             "title": "通知",
             "message": "通知测试",
             "targetActivity": ["LoginActivity", "MainActivity"],
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": "2020-3-19第一个通知",
             "title": "第二个通知",
             "message": "哈哈哈哈哈",
             "targetActivity": ["RunningActivity", "MainActivity"],
