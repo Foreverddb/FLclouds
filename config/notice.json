@@ -5,7 +5,7 @@
         "title": "通知",
         "message": "通知测试",
         "targetActivity": "RunningActivity",
-        "show": true,
+        "show": false,
         "buttons": [
             {
                 "text": "按钮1",
@@ -27,7 +27,7 @@
         "title": "第二个通知",
         "message": "哈哈哈哈哈",
         "targetActivity": "MainActivity",
-        "show": true,
+        "show": false,
         "buttons": [
             {
                 "text": "按钮1",
