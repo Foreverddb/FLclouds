@@ -22,17 +22,12 @@
         ]
     },
     {
-        "id": "2020-3-19第一个通知",
+        "id": "3.5.3",
         "alwaysShow": false,
-        "title": "第二个通知",
-        "message": "哈哈哈哈哈",
+        "title": "3.5.3更新",
+        "message": " ·  我们在应用内加入了反馈功能，无需再到github上来留言。\n\n ·  优化了登录部分的逻辑。\n\n\n\n           2022.3.19",
         "targetActivity": "MainActivity",
-        "show": false,
-        "buttons": [
-            {
-                "text": "按钮1",
-                "url": "https://github.com/Foreverddb/FuckLegym"
-            }
-        ]
+        "show": true,
+        "buttons": []
     }
 ]
