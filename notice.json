@@ -8,15 +8,15 @@
             "show": true,
             "buttons": [
                 {
-                    "title": "按钮1",
+                    "text": "按钮1",
                     "url": "https://github.com/Foreverddb/FuckLegym"
                 },
                 {
-                    "title": "按钮2",
+                    "text": "按钮2",
                     "url": "https://github.com/Foreverddb/FuckLegym"
                 },
                 {
-                    "title": "按钮3",
+                    "text": "按钮3",
                     "url": "https://github.com/Foreverddb/FuckLegym"
                 }
             ]
@@ -29,7 +29,7 @@
             "show": true,
             "buttons": [
                 {
-                    "title": "按钮1",
+                    "text": "按钮1",
                     "url": "https://github.com/Foreverddb/FuckLegym"
                 }
             ]
