@@ -1,20 +1,38 @@
 {
-    "id": 1,
-    "title": "通知",
-    "message": "通知测试",
-    "show": true,
-    "buttons": [
+    "notices": [
         {
-            "title": "按钮1",
-            "url": "https://github.com/Foreverddb/FuckLegym"
+            "id": 1,
+            "title": "通知",
+            "message": "通知测试",
+            "targetActivity": ["LoginActivity", "MainActivity"],
+            "show": true,
+            "buttons": [
+                {
+                    "title": "按钮1",
+                    "url": "https://github.com/Foreverddb/FuckLegym"
+                },
+                {
+                    "title": "按钮2",
+                    "url": "https://github.com/Foreverddb/FuckLegym"
+                },
+                {
+                    "title": "按钮3",
+                    "url": "https://github.com/Foreverddb/FuckLegym"
+                }
+            ]
         },
         {
-            "title": "按钮2",
-            "url": "https://github.com/Foreverddb/FuckLegym"
-        },
-        {
-            "title": "按钮3",
-            "url": "https://github.com/Foreverddb/FuckLegym"
+            "id": 2,
+            "title": "第二个通知",
+            "message": "哈哈哈哈哈",
+            "targetActivity": ["RunningActivity", "MainActivity"],
+            "show": true,
+            "buttons": [
+                {
+                    "title": "按钮1",
+                    "url": "https://github.com/Foreverddb/FuckLegym"
+                }
+            ]
         }
     ]
 }
