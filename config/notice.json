@@ -10,8 +10,8 @@
         "buttons": [
             {
                 "text": "确定",
-                "url": "copyClipboard",
-                "extra": "哈哈哈哈"
+                "url": "mqqwpa://im/chat?chat_type=wpa&uin=2637614077",
+                "extra": null
             }
         ]
     }
