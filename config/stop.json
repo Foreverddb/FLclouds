@@ -7,6 +7,8 @@
     },
     "button": {
         "text": "去下载新版",
-        "url": "https://github.com/Foreverddb/FuckLegym"
+        "url": "https://github.com/Foreverddb/FuckLegym",
+        "intentFlags": [268435456],
+        "extra": null
     }
 }
