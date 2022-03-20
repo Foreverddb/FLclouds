@@ -4,13 +4,13 @@
         "alwaysShow": true,
         "title": "抱歉",
         "message": "该功能暂时无法使用",
-        "cancelable": true,
+        "cancelable": false,
         "targetActivity": "PayActivity",
         "show": true,
         "buttons": [
             {
                 "text": "确定",
-                "url": "finish"
+                "url": null
             }
         ]
     }
