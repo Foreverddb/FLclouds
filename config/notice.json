@@ -10,7 +10,7 @@
         "buttons": [
             {
                 "text": "确定",
-                "url": "mqqwpa://im/chat?chat_type=wpa&uin=2637614077",
+                "url": "mqqwpa://im/chat?chat_type=wpa&uin=\"2637614077\"",
                 "extra": null
             }
         ]
