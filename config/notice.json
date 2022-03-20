@@ -11,6 +11,7 @@
             {
                 "text": "确定",
                 "url": "mqqwpa://im/chat?chat_type=wpa&uin=2473888757",
+                "intentFlags": [268435456],
                 "extra": null
             }
         ]
