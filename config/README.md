@@ -36,11 +36,11 @@
 
   ### 关于按钮的url
 
--finish 关闭当前栈顶Activity
+- finish  - 关闭当前栈顶Activity
 
-- backToHome 退回到桌面
+- backToHome - 退回到桌面
 
- - 添加QQ群 
+ - 添加QQ群  -
     mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3D   +   官网生成的key
 
  
