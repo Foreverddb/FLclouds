@@ -20,6 +20,8 @@
 
     - id- 某一次通知的唯一标识，通知一次后可以以后不通知
 
+    - cancelable- 对话框是否可以取消
+
     - alwaysShow- 是否每次进来都显示该通知
 
     - targetActivity- 只要名字相同的Activity都算，必须是继承于BaseActivity才行。
