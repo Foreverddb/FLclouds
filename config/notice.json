@@ -6,7 +6,7 @@
         "message": "该功能暂时无法使用",
         "cancelable": false,
         "targetActivity": "PayActivity",
-        "show": true,
+        "show": false,
         "buttons": [
             {
                 "text": "确定",
