@@ -44,6 +44,8 @@
 
  - backToHome: 退回到桌面
 
+ - copyClipboard: 复制文字到剪切板，文字放在extra里
+
  - 添加QQ群: mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3D   +   官网生成的key
 
  - 转到好友界面: mqqwpa://im/chat?chat_type=wpa&uin=   +  QQ号
