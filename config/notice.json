@@ -1,33 +1,17 @@
 [
     {
-        "id": "1",
+        "id": "PayActivityTest",
         "alwaysShow": true,
-        "title": "通知",
-        "message": "通知测试",
-        "targetActivity": "RunningActivity",
-        "show": false,
+        "title": "抱歉",
+        "message": "该功能暂时无法使用",
+        "cancelable": true,
+        "targetActivity": "PayActivity",
+        "show": true,
         "buttons": [
             {
-                "text": "按钮1",
-                "url": "https://github.com/Foreverddb/FuckLegym"
-            },
-            {
-                "text": "按钮2",
-                "url": "https://github.com/Foreverddb/FuckLegym"
-            },
-            {
-                "text": "按钮3",
-                "url": "https://github.com/Foreverddb/FuckLegym"
+                "text": "确定",
+                "url": "finish"
             }
         ]
-    },
-    {
-        "id": "3.5.3",
-        "alwaysShow": false,
-        "title": "3.5.3更新",
-        "message": " ·  我们在应用内加入了反馈功能，无需再到github上来留言。\n\n ·  优化了登录部分的逻辑。\n\n\n\n        - 2022.3.19",
-        "targetActivity": "MainActivity",
-        "show": true,
-        "buttons": []
     }
 ]
