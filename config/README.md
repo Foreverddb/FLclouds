@@ -15,6 +15,7 @@
     - button - 配置按钮的信息，这个地方可以是null，其中
             - text - 按钮文字
             - url  - 点击按钮后的行为
+            - flags - 配置Intent的Flags
             - extra - 额外的一些信息
 
 
@@ -43,6 +44,8 @@
  - finish: 关闭当前栈顶Activity
 
  - backToHome: 退回到桌面
+
+ - signOut: 退出登录
 
  - copyClipboard: 复制文字到剪切板，文字放在extra里
 
