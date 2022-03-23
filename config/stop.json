@@ -1,14 +1,9 @@
 {
-    "deprecatedVersion": 14,
+    "deprecatedVersion": 15,
     "saveVersion": [],
     "info": {
         "title": "提示",
         "message": "此版本已停用"
     },
-    "button": {
-        "text": "去下载新版",
-        "url": "https://github.com/Foreverddb/FuckLegym",
-        "intentFlags": [268435456],
-        "extra": null
-    }
+    "button": null
 }
