@@ -3,10 +3,10 @@
     "saveVersion": [],
     "info": {
         "title": "提示",
-        "message": "此版本已停用，请下载最新版本"
+        "message": "由于某原因，本软件将暂时停用。预计2-5天内重新启用。"
     },
     "button": {
-        "text": "去下载",
+        "text": "我已了解",
         "intentFlags": [],
         "url": "https://github.com/Foreverddb/FuckLegym/releases",
         "extra": null
