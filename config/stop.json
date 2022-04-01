@@ -1,12 +1,12 @@
 {
-    "deprecatedVersion": 19,
+    "deprecatedVersion": 18,
     "saveVersion": [],
     "info": {
         "title": "提示",
-        "message": "由于某原因，本软件将暂时停用。预计1-4天内重新启用。"
+        "message": "该版本过低，已停用。"
     },
     "button": {
-        "text": "我已了解",
+        "text": "去下载新版",
         "intentFlags": [],
         "url": "https://github.com/Foreverddb/FuckLegym/releases",
         "extra": null
