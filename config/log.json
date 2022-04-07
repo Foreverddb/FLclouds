@@ -1,4 +1,4 @@
 {
-    "enableUploadLog": false,
+    "enableUploadLog": true,
     "login": true
 }
