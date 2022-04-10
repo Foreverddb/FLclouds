@@ -1,7 +1,7 @@
 {
-    "deprecatedVersion": 0,
+    "deprecatedVersion": 1,
     "info": {
         "title": "提示",
-        "message": "此版本已停用。  更多信息请前往https://github.com/Foreverddb/FuckLegym"
+        "message": "此版本已停用，请下载手机版继续使用服务。"
     }
 }
