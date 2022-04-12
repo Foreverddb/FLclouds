@@ -1,4 +1,3 @@
 {
-    "enableConsumeIntegral": true,
-    "enableInviteNewUser": false
+    "enableConsumeIntegral": false,
 }
