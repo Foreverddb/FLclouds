@@ -15,5 +15,15 @@
                 "extra": null
             }
         ]
+    },
+    {
+        "id": "暂时关闭支付入口",
+        "alwaysShow": false,
+        "title": "通知",
+        "message": "支付系统暂时有点问题，暂时关了，大家先缓两天",
+        "cancelable": true,
+        "targetActivity": "MainActivity",
+        "show": true,
+        "buttons": []
     }
 ]
