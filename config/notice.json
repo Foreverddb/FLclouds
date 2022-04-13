@@ -6,7 +6,7 @@
         "message": "没动力写不下去了，代码已经开源了，大家自己去仓库看吧。接下来会更新一个永久免费版本，大家有缘再见。希望大家能看看《赛马娘》！",
         "cancelable": true,
         "targetActivity": "MainActivity",
-        "show": true,
+        "show": false,
         "buttons": [
              {
                 "text": "去看看",
