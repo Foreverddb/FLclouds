@@ -1,29 +1,19 @@
 [
     {
-        "id": "PayActivityTest",
+        "id": "本应用将永久开源免费",
         "alwaysShow": true,
-        "title": "抱歉",
-        "message": "该功能暂时无法使用",
-        "cancelable": false,
-        "targetActivity": "PayActivity",
-        "show": false,
-        "buttons": [
-            {
-                "text": "确定",
-                "url": "mqqwpa://im/chat?chat_type=wpa&uin=2473888757",
-                "intentFlags": [268435456],
-                "extra": null
-            }
-        ]
-    },
-    {
-        "id": "暂时关闭支付入口",
-        "alwaysShow": false,
         "title": "通知",
-        "message": "支付系统暂时有点问题，暂时关了，大家先缓两天",
+        "message": "没动力写不下去了，代码已经开源了，大家自己去仓库看吧。接下来会更新一个永久免费版本，大家有缘再见。希望大家能看看《赛马娘》！",
         "cancelable": true,
         "targetActivity": "MainActivity",
         "show": true,
-        "buttons": []
+        "buttons": [
+             {
+                "text": "去看看",
+                "url": "https://github.com/Foreverddb/FuckLegym",
+                "intentFlags": [],
+                "extra": null
+            }
+        ]
     }
 ]
