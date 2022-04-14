@@ -32,22 +32,5 @@
                 "extra": null
             }
         ]
-    },
-    {
-        "id": "关于定位失败的通知",
-        "alwaysShow": false,
-        "title": "提醒一下",
-        "message": "若出现自定义路线无法定位无法搜索位置的情况，请前往github下载最新版本。",
-        "cancelable": true,
-        "targetActivity": "RunningActivity",
-        "show": true,
-        "buttons": [
-             {
-                "text": "前往下载",
-                "url": "https://github.com/Foreverddb/FuckLegym/releases/tag/3.8.0",
-                "intentFlags": [],
-                "extra": null
-            }
-        ]
     }
 ]
