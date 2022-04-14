@@ -1,4 +1,21 @@
 [
+     {
+        "id": "关于乐健找上门来的通知",
+        "alwaysShow": false,
+        "title": "通知",
+        "message": "乐健官方找到我们了，我们尊重官方意见闭源代码，且乐健将在近日更新安全性，届时此app可能将无法使用。特此通知",
+        "cancelable": true,
+        "targetActivity": "MainActivity",
+        "show": true,
+        "buttons": [
+             {
+                "text": "我知道了",
+                "url": null,
+                "intentFlags": [],
+                "extra": null
+            }
+        ]
+    },
     {
         "id": "关于不要乱上传跑步成绩的通知",
         "alwaysShow": false,
