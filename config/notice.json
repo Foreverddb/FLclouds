@@ -22,7 +22,7 @@
         "title": "提醒一下",
         "message": "若出现自定义路线无法定位无法搜索位置的情况，请前往github下载最新版本。",
         "cancelable": true,
-        "targetActivity": "MapSelector",
+        "targetActivity": "RunningActivity",
         "show": true,
         "buttons": [
              {
