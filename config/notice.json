@@ -2,14 +2,14 @@
      {
         "id": "关于乐健找上门来的通知",
         "alwaysShow": true,
-        "title": "通知",
+        "title": "寄",
         "message": "乐健官方找到我们了，我们尊重官方意见闭源代码，且乐健将在近日升级安全性，届时此app可能即将无法使用。特此通知   2022/4/14",
         "cancelable": true,
         "targetActivity": "MainActivity",
         "show": true,
         "buttons": [
              {
-                "text": "我知道了",
+                "text": "呜呜呜，我会想念FuckLegym的",
                 "url": null,
                 "intentFlags": [],
                 "extra": null
