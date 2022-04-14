@@ -1,16 +1,16 @@
 [
     {
-        "id": "本应用将永久开源免费",
-        "alwaysShow": true,
-        "title": "通知",
-        "message": "没动力写不下去了，代码已经开源了，大家自己去仓库看吧。接下来会更新一个永久免费版本，大家有缘再见。希望大家能看看《赛马娘》！",
+        "id": "关于不要乱上传跑步成绩的通知",
+        "alwaysShow": false,
+        "title": "提醒一下",
+        "message": "跑步里程限制现在app内已经解除了，你可以超出学校规定限制上传了，但是一定要注意：不到万不得已请不要乱上传成绩！ 教师客户端都是能看到数据的，所有信息都查得到，所以最好是按照学校规定的要求来上传成绩！",
         "cancelable": true,
-        "targetActivity": "MainActivity",
+        "targetActivity": "RunningActivity",
         "show": false,
         "buttons": [
              {
-                "text": "去看看",
-                "url": "https://github.com/Foreverddb/FuckLegym",
+                "text": "我知道了",
+                "url": null,
                 "intentFlags": [],
                 "extra": null
             }
